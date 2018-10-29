@@ -1,0 +1,10 @@
+# os
+.DS_Store
+
+# editors
+.idea
+.vscode
+
+# common
+*.log
+*.pid
